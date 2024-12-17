@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        android:background="#56D70B"
+        android:background="#3E6B23"
         xmlns:android="http://schemas.android.com/apk/res/android">
         <TextView
             android:textSize="30dp"
